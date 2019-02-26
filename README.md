@@ -1,7 +1,7 @@
 # Webscraping Album Credits
 
 ## Example of output
-An example of the output for one album can be seen [here](). Otherwise, if you wish
+An example of the output for one album can be seen [here](https://github.com/theodorehadges/webscrape_album_credits/blob/master/kanye_the-college-dropout.txt). Otherwise, if you wish
 to run the code yourself (perhaps for another artist/album), feel free to
 follow the instructions below.
 
